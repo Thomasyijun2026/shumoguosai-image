@@ -1,6 +1,6 @@
 # 示例说明
 
-`huashu_AA_3D_single_figure_reference.png` 是华数杯微构体 A–A 最短距离三维图的阶段性参考。
+`huashu_AA_3D_single_figure_reference.svg` 是华数杯微构体 A–A 最短距离三维图的阶段性参考。
 
 使用它学习：
 - 一图一文件；
